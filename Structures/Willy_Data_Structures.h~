@@ -1,0 +1,18 @@
+#ifndef WILLY_DATA_STRUCTURES_H
+#define WILLY_DATA_STRUCTURES_H
+
+#include "BinaryTree.h"
+#include "Tree.h"
+#include "mySort.h"
+#include "Fifo.h"
+#include "Stack.h"
+#include "Search.h"
+#include "List.h"
+#include "BinaryAVLTree.h"
+#include "Basic.h"
+#include "Graph.h"
+
+
+
+
+#endif // WILLY_DATA_STRUCTURES_H
